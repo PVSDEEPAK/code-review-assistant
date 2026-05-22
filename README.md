@@ -79,4 +79,4 @@ Open `frontend/index.html` directly in your browser.
 ## Author
 
 **PVS Deepak** — B.E. Computer Science, CBIT Hyderabad  
-[LinkedIn](https://linkedin.com/in/yourprofile) | [GitHub](https://github.com/yourusername)
+[LinkedIn](https://linkedin.com/in/pvsdeepak) | [GitHub](https://github.com/yourusername)
